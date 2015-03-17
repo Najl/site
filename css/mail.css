@@ -1,0 +1,106 @@
+
+
+.div_clear {clear: both;}
+
+
+.mailCore{
+	width: 100%;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	background-color: #535D67;
+}
+.mailHead{
+	background-color: #272F3A;
+	height: 80px;
+}
+.logoMail{
+	padding: 15px 0 0 50px;
+	display: inline-block;
+}
+.logoMail a{
+	display: inline-block;
+}
+
+
+
+
+.mailBody{
+	padding: 20px;
+}
+.mailBodyContent{
+	background-color: white;
+	padding: 30px;
+}
+.mailBodyHead{
+	padding-bottom: 40px;
+}
+.mailBodyHead p{
+	font-family: Verdana;
+	font-size: 15px;
+	color: #656B76;
+	line-height: 18px;
+}
+
+.mailBodyHead h1, .mailBodyList h1{
+	font-family: Verdana;
+	font-size: 20px;
+	color: #000000;
+	line-height: 24px;
+	font-weight: normal;
+}
+
+
+
+.mailFooter{
+	padding: 0px 50px 20px 50px;
+	color: #91969E;
+}
+
+.mailBodyList img{}
+
+.mailFSite{
+	width: 170px;
+	float: left;
+}
+.mailFSite a{
+	font-family: Verdana;
+	font-size: 14px;
+	color: #91969E;
+	line-height: 17px;
+	text-decoration: none;
+}
+.mailUnsubscribe{
+	float: right;
+	font-size: 13px;
+}
+.mailUnsubscribe a{
+	color: #91969E;
+}
+
+.mailFText{
+	font-family: Verdana;
+	font-size: 13px;
+	color: #91969E;
+	line-height: 13px;
+	padding-top: 20px;
+}
+
+.acymailing_content {
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.acymailing_title {
+    padding-left: 5px;
+}
+
+.mailbut{
+ 	background-color: #535d67;
+    border: medium none;
+    border-radius: 0;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 12px !important;
+    height: 24px;
+    line-height: 17px;
+    padding: 4px 7px 3px;
+    text-transform: uppercase;
+   }
