@@ -1,8 +1,6 @@
 <?php 
 	
-echo("Hello");
-echo("Design hello");
-echo("tetetet");
+echo("new");
 
 echo("tetetet");
 
